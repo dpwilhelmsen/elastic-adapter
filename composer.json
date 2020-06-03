@@ -1,5 +1,5 @@
 {
-    "name": "dpwilhelmsen/elastic-adapter",
+    "name": "babenkoivan/elastic-adapter",
     "description": "Adapter for official PHP Elasticsearch client",
     "keywords": [
         "elastic",
@@ -37,6 +37,6 @@
         "bin-dir": "bin"
     },
     "replace": {
-        "babenkoivan/elastic-client": "^1.0"
+        "babenkoivan/elastic-adapter": "^1.0"
     }
 }
